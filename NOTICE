@@ -1,0 +1,9 @@
+CloneProfileCompatibility
+Copyright 2026 AxuanMDM contributors
+
+The compatibility module was originally developed alongside AxuanMDM.
+
+Compilation uses Xposed Framework API 82, Copyright 2013 rovo89, Tungstwenty,
+under the Apache License, Version 2.0. The API is provided by LSPosed at runtime
+and is not bundled into this module's APK. The upstream notice is preserved
+in third_party/xposed-api/NOTICE.txt, with its license in licenses/.

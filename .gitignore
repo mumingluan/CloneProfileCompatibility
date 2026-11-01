@@ -1,0 +1,9 @@
+/dist/
+/build/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.keystore
+*.jks
+.idea/
